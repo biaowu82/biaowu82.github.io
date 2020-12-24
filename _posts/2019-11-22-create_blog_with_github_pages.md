@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "copy 可能是最全面的github pages搭建个人博客教程"
+title: "gaiyixia 可能是最全面的github pages搭建个人博客教程"
 date:   2020-12-20
 tags: [geek]
 comments: true
 author: bb
 ---
 
-作为一个程序员怎么能没有自己的个人博客呢，这里详细记录和分享我的博客搭建经验，让你轻轻松松拥有自己的博客网站。傻瓜式一站式教你用 github pages 来搭建博客，详细记录全过程，保证你能学会。
-
+来自模版的东西
 如果你是非程序员或者不关系技术细节，只需花 3 分钟阅读前面 5 个章节内容，就能轻松拥有自己的博客。
 
 
@@ -83,9 +82,7 @@ google_analytics: UA-XXXXXXX-X
 ### 博客网址配置
 
 ```
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://yourname.github.io
+
 ```
 
 这里配置你自己的博客地址。
@@ -94,7 +91,7 @@ url: https://yourname.github.io
 
 对_config.ymld的修改需要提交才能生效，点下图中绿色按钮提交。
 
-![配置提交](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/%E9%85%8D%E7%BD%AE%E6%8F%90%E4%BA%A4.png)
+
 
 **done! 现在输入上面提到的博客地址，回车，你拥有了自己的博客。**
 
