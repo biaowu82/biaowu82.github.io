@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: post
 title: "消失的日记本"
 date:   2020-12-24
